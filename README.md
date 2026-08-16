@@ -1,11 +1,11 @@
 # me-in-markdown
 # Marharyta
 
-Hello! My name is **Marharyta** and I am a senior at Chatsworth Charter High School **G+STEAM Magnet**. After graduation, I plan to major in `Industrial Engineering`. Currently, I am part of the **finance/business committee in Link Crew**, helping out freshmen and organizing fundraisers. This summer I was a Linked Learning Seminar Intern, giving classes to the incoming magnet freshmen and helping them adjust to the high school environment. I learned the importance of helping others and how impactful it can be.
+Hello! My name is **Marharyta** and I am a senior at Chatsworth Charter High School **G+STEAM Magnet**. After graduation, I plan to major in `Industrial Engineering`. Currently, I am part of the **finance/business committee in Link Crew**, helping freshmen and organizing fundraisers. This summer I was a Linked Learning Seminar Intern, giving classes to the incoming magnet freshmen and helping them adjust to the high school environment. I learned the importance of helping others and how impactful it can be.
 
 ## Hobbies
 
-I like traveling, especially hiking. I have been to 7 National Parks.
+I like traveling, especially hiking. I have been to 6 National Parks.
 - Yosemite
 - Bryce Canyon
 - Sequoia
@@ -13,13 +13,11 @@ I like traveling, especially hiking. I have been to 7 National Parks.
 - Grand Canyon
 - Zion. 
 
-This summer I traveled to **New York City and Niagara Falls State Park**. Outside the United States, I have traveled to Romania, Ukraine, Greece, Moldova, and France. I also like to <u>stay active</u>. So I go to the gym <u>5 times a week</u> and previously I did *acrobatic gymnastics* for <u>5 years</u>.
+This summer I traveled to **New York City and Niagara Falls State Park**. Outside the United States, I have traveled to *Romania, Ukraine, Greece, Moldova, and France*. I also like to <u>stay active</u>. So I go to the gym <u>5 times a week</u> and I previously did *acrobatic gymnastics* for <u>5 years</u>.
 
-## Senior year goals
-My main goals for senior year are to graduate as valedictorian, earn a 4 or 5 on all four of my AP exams, and get accepted to `UC Berkeley or Cal Poly`. At the same time, I want to enjoy my last year of high school and make memories with my friends before graduation.
 
 ## Favorite Movies
-I like watching horror and romance movies. I have been watching horror movies since I was a kid because my sister would always put them on TV, and I would watch them with her. I have always enjoyed watching something scary This is also why I love Halloween Horror Nights at Universal Studios, and I can’t wait to go again this year.
+I like watching `horror and romance` movies. I have been watching horror movies since I was a kid because my sister would always put them on TV, and I would watch them with her. I have always enjoyed watching something scary. This is also why I love Halloween Horror Nights at Universal Studios, and I can’t wait to go again this year.
 
 I started watching romance movies when I was about 14 years old. I just like how sweet they are. I also feel like I can learn something from them, like how to solve problems in relationships or how to deal with heartbreak.
 
